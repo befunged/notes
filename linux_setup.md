@@ -22,7 +22,7 @@
   - echo 'eval "$(atuin init zsh)"' >> ~/.zshrc
 
 ## Fzf - fuzzy finder
--- apt install fzf
+- apt install fzf
 
 
 Tldr - command line help
