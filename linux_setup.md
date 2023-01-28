@@ -11,12 +11,20 @@
 - download from https://github.com/zellij-org/zellij/releases
 - untar and copy to /usr/local/bin
 - echo 'eval "$(zellij setup --generate-auto-start zsh)"' >> ~/.zshrc
-- if mouse paste is broken
-  - alias zellij='zellij options --disable-mouse-mode'
+- if mouse paste is broken, hold shift when right-click pasting
+  
 
 
-Atuin - terminal history
-Fzf - fuzzy finder
+## Atuin - terminal history
+- https://github.com/ellie/atuin
+  - bash <(curl https://raw.githubusercontent.com/ellie/atuin/main/install.sh)
+  - atuin import auto
+  - echo 'eval "$(atuin init zsh)"' >> ~/.zshrc
+
+## Fzf - fuzzy finder
+-- apt install fzf
+
+
 Tldr - command line help
 bat - better than cat
 Bpytop - better htop
