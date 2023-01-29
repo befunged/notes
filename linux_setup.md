@@ -1,5 +1,10 @@
 # Linux Setup
 
+## zsh
+- `apt install zsh`
+- `apt install wget`
+- sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
+
 ## fonts-powerline
 - wsl
   - install in windows using https://slmeng.medium.com/how-to-install-powerline-fonts-in-windows-b2eedecace58 
