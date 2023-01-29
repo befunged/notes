@@ -41,8 +41,7 @@
 - `alias bat='batcat`
 
 ## Bpytop - better htop
-- `pip3 install bpytop --upgrade`
-- 
+- `apt install bpytop`
 
 ## lf - file browser
 
