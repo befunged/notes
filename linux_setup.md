@@ -1,7 +1,7 @@
 # Linux Setup
 
 ## zsh
-- `apt install zsh wget git`
+- `apt install zsh wget git vim vim-scripts`
 - `sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"`
 - vim .zshrc
   - update ZSH_THEME to "eastwood"
