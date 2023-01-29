@@ -3,7 +3,7 @@
 ## zsh
 - `apt install zsh`
 - `apt install wget`
-- sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
+- `sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"`
 
 ## fonts-powerline
 - wsl
