@@ -44,6 +44,8 @@
 - `apt install bpytop`
 
 ## lf - file browser
+- apt install golang
+- `env CGO_ENABLED=0 go install -ldflags="-s -w" github.com/gokcehan/lf@latest`
 
 ## lsd - better than ls
   
