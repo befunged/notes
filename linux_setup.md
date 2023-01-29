@@ -4,7 +4,7 @@
 - `apt install zsh wget git vim vim-scripts curl`
 - `sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"`
 - vim .zshrc
-  - update ZSH_THEME to "eastwood"
+  - update ZSH_THEME to "dpoggi"
   - append `export LS_COLORS=$LS_COLORS:'ow=1;34:'`
 
 ## fonts-powerline
