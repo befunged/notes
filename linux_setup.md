@@ -31,7 +31,7 @@
 
 ## Fzf - fuzzy finder
 - apt install fzf
-`cd **<TAB>`
+- `cd **<TAB>` to try
 
 ## Tldr - better command line help
 - `apt install tldr`
