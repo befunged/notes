@@ -1,8 +1,7 @@
 # Linux Setup
 
 ## zsh
-- `apt install zsh`
-- `apt install wget`
+- `apt install zsh wget git`
 - `sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"`
 
 ## fonts-powerline
