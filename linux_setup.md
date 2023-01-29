@@ -48,4 +48,6 @@
 - `env CGO_ENABLED=0 go install -ldflags="-s -w" github.com/gokcehan/lf@latest`
 
 ## lsd - better than ls
+- download from https://github.com/Peltoche/lsd/releases
+- `alias l='lsd -l'`
   
