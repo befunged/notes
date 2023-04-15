@@ -6,7 +6,7 @@
 - vim .zshrc
   - update ZSH_THEME to "dpoggi"
   - append `export LS_COLORS=$LS_COLORS:'ow=1;34:'`
-  - alias venvc=python -m venv .venv
+  - alias venvc=python3 -m venv .venv
   - alias venva=source .venv/bin/activate
 
 ## fonts-powerline
