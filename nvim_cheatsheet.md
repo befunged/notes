@@ -21,10 +21,15 @@
 * <kbd>CTRL</kbd> <kbd>l</kbd> - navigate to right window
 
 ## window splitting
-
-
+* <kbd>:sp</kbd> - split window horizontally
+* <kbd>:vsp</kbd> - split window vertically
 
 ## find files
 * <kbd>SPACE</kbd> <kbd>f</kbd> <kbd>f</kbd> - find across all files 
 * <kbd>SPACE</kbd> <kbd>f</kbd> <kbd>b</kbd> - find across open files
+
+## line numbers
+* <kbd>SPACE</kbd> <kbd>n</kbd> - toggle line numbers
+* <kbd>SPACE</kbd> <kbd>r</kbd> <kbd>n</kbd> - toggle relative line numbers
+* 
 
